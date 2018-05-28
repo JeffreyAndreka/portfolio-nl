@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "nederlands",
-    "currentPage": "index.html",
+    "currentPage": "cookies.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -81,7 +81,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-eng/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH SITE</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-eng/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH VERSION<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -180,7 +180,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-eng/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH SITE</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-eng/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH VERSION<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -260,7 +260,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-eng/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH SITE</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-eng/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH VERSION<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -340,7 +340,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-eng/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH SITE</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-eng/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH VERSION<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -491,7 +491,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-eng/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH SITE</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-eng/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ENGLISH VERSION<br></a>",
           "_tags": [
             "Theme"
           ],
