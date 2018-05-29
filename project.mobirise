@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "nederlands",
-    "currentPage": "index.html",
+    "currentPage": "tekeningen.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -423,7 +423,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-hertogenbosch-bitmap.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-189.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -435,7 +435,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Kaart - 59,4cm x 84,1cm - inkt op papier",
+          "text": "Kaart - 59,4cm x 84,1cm - inkt en acrylverf op papier",
           "_tags": [
             "Theme"
           ],
