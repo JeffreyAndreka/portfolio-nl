@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "nederlands",
-    "currentPage": "cookies.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -12,7 +12,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 54,
+    "uniqCompNum": 56,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /assets/images\n\n\n",
@@ -785,6 +785,18 @@
               "text-align": "center"
             }
           }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "zonder titel, herhaling",
+          "meta": "42 cm x 26,7 cm - gemengde technieken<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1j"
         },
         {
           "_params": {
