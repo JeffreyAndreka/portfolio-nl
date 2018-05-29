@@ -416,38 +416,6 @@
       },
       "components": [
         {
-          "_params": {
-            "showText": true,
-            "outside": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dsc-189.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Kaart - 59,4cm x 84,1cm - inkt en acrylverf op papier",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-h",
-          "_styles": {
-            "SMALL": {
-              "text-align": "center"
-            }
-          }
-        },
-        {
           "_styles": {
             ".mbr-brand__name": {
               "font-size": "16px"
